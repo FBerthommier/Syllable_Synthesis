@@ -1,0 +1,11 @@
+numpy
+matplotlib
+scipy
+librosa
+sounddevice
+opencv-python
+Pillow
+ctypes; sys_platform == "win32"
+os
+moviepy
+soundfile
