@@ -1,6 +1,7 @@
 # Software for Syllable Synthesis and Supplementary Materials
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15527268.svg)](https://doi.org/10.5281/zenodo.15527268)
+![image](https://github.com/user-attachments/assets/41581ff4-7652-4e63-9f08-7b107bbdd36a)
 
 This project accompanies the article:
 
