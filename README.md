@@ -100,7 +100,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 If you use this software or data in your work, please cite it as follows:
 
-> Frédéric Berthommier. *Software for Syllable Synthesis and Supplementary Materials for "Articulatory modeling of the S-shaped F2 trajectories observed in Öhman's spectrographic analysis of VCV syllables."* Zenodo, 2025. [https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
+> Frédéric Berthommier. *Software for Syllable Synthesis and Supplementary Materials for "Articulatory modeling of the S-shaped F2 trajectories observed in Öhman's spectrographic analysis of VCV syllables."* Zenodo, 2025. [https://doi.org/10.5281/zenodo.15527268](https://doi.org/10.5281/zenodo.15527268)
 
 You can also use the citation metadata in the `CITATION.cff` file.
 
