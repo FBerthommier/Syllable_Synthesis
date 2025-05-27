@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this work using the following metadata."
+title: "Software for Syllable Synthesis and Supplementary Materials for \"Articulatory modeling of the S-shaped F2 trajectories observed in Öhman's spectrographic analysis of VCV syllables\""
+authors:
+  - given-names: "Frédéric"
+    family-names: "Berthommier"
+repository-code: "https://zenodo.org/record/15527268"
+doi: 10.5281/zenodo.15527268
+url: "https://doi.org/10.5281/zenodo.15527268"
+date-released: 2025-05-27  # Ajustez la date exacte si nécessaire
