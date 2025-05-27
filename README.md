@@ -1,6 +1,6 @@
 # Software for Syllable Synthesis and Supplementary Materials
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15527268.svg)](https://doi.org/10.5281/zenodo.15527268)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15527267.svg)](https://doi.org/10.5281/zenodo.15527267)
 
 This project accompanies the article:
 
@@ -100,7 +100,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 If you use this software or data in your work, please cite it as follows:
 
-> Frédéric Berthommier. *Software for Syllable Synthesis and Supplementary Materials for "Articulatory modeling of the S-shaped F2 trajectories observed in Öhman's spectrographic analysis of VCV syllables."* Zenodo, 2025. [https://doi.org/10.5281/zenodo.15527268](https://doi.org/10.5281/zenodo.15527268)
+> Frédéric Berthommier. *Software for Syllable Synthesis and Supplementary Materials for "Articulatory modeling of the S-shaped F2 trajectories observed in Öhman's spectrographic analysis of VCV syllables."* Zenodo, 2025. [https://doi.org/10.5281/zenodo.15527267](https://doi.org/10.5281/zenodo.15527267)
 
 You can also use the citation metadata in the `CITATION.cff` file.
 
